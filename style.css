@@ -1,0 +1,23 @@
+body{
+    background-position: center;
+    background-size: cover;
+}
+
+.heading{
+    font-size: 25px;
+    width: 100%;
+    margin: 0px;
+    font-weight: bold;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+
+.note{
+    color: darkblue;
+    letter-spacing: 3px;
+}
+
+canvas {
+    border: 5px dotted lightseagreen;
+    border-radius: 30px;
+    margin-top: 50px;
+}
